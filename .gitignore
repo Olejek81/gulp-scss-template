@@ -1,0 +1,11 @@
+/node_modules
+*.swp
+*.iws
+*.log
+.project
+.DS_Store
+.sass-cache
+.idea
+public/
+bower_components/
+dist/

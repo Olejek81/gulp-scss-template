@@ -1,0 +1,12 @@
+$width: 100%;
+
+.superclass {
+  position: relative;
+  width: $width;
+}
+
+.superclass p {
+  color: #f0f;
+  font-size: 2em;
+}
+

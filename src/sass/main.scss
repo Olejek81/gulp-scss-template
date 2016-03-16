@@ -1,0 +1,10 @@
+// Модули и переменные
+@import "partials/base";
+
+// Partials
+@import "partials/typography";
+@import "partials/grids";
+
+.header {
+  font-size: 1.5em;
+}
